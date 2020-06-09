@@ -1,0 +1,27 @@
+﻿  BGDraw.cpp
+  Game.cpp
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\Game.cpp(38,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\Game.cpp(39,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\Game.cpp(52,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\Game.cpp(53,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\Game.cpp(66,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\Game.cpp(67,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  application.cpp
+  bar.cpp
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\bar.cpp(8,3): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\bar.cpp(27,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\bar.cpp(28,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\bar.cpp(42,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\bar.cpp(43,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  heli.cpp
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\heli.cpp(25,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\heli.cpp(26,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\heli.cpp(40,30): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rumi desu\source\repos\plsssssss\plsssssss\heli.cpp(41,12): warning C4305: '+=': truncation from 'double' to 'float'
+  load_texture.cpp
+  Generating code
+  4 of 104 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  plsssssss.vcxproj -> C:\Users\rumi desu\source\repos\plsssssss\x64\Release\plsssssss.exe
